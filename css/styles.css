@@ -4,6 +4,7 @@ div > p {
 
 .content-cell {
 	background-color: #BBDDBB;
+	position: relative;
 	margin-bottom: 15px;
 	padding: 10px 15px;
 	width: 100%;
