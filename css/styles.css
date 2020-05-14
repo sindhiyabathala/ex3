@@ -2,7 +2,7 @@
 	text-align: justify;
 }
 
-.content-cell {
+.content-fluid {
 	position: relative;
 	background-color: #BBDDBB;
     border: 1px solid black;
@@ -13,7 +13,7 @@
 	margin-bottom: 5px;
 }
 
-.content-cell h2 {
+.content-fluid h2 {
 	margin-top: -5px;
 }
 @media (min-width: 992px){
