@@ -16,6 +16,13 @@
 .content-cell h2 {
 	margin-top: -5px;
 }
+@media (min-width: 992px){
+		 #collapsable-nav {
+		visibility: hidden;
+			float: left;
+			width: 33.33%;
+            }
+            }
 
 /* Not XS screen */
 @media (min-width:768px){
